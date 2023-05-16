@@ -8,3 +8,9 @@
 	url = https://github.com/cran/MeTo
 	shallow = true
 	registered = true
+[submodule "SoilHyP"]
+	path = SoilHyP
+	url = https://bitbucket.org/ullid/soilhyp
+	shallow = true
+	subdir = SoilHyP
+	registered = true
