@@ -1,16 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MeTo"]
 	path = MeTo
 	url = https://github.com/cran/MeTo
-	shallow = true
-	registered = true
 [submodule "SoilHyP"]
 	path = SoilHyP
 	url = https://bitbucket.org/ullid/soilhyp
-	shallow = true
 	subdir = SoilHyP
-	registered = true
